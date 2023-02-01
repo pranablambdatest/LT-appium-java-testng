@@ -24,8 +24,8 @@ jobs:
       uses: LambdaTest/LambdaTest-tunnel-action@v1
       id: tunnel-id
       with:
-         user: suparna3107@gmail.com
-         accessKey: add your own access key here..
+         user: pranayb@gmail.com
+         accessKey: P5HIJJ8O0hUDQpNjGUloGq7WP52iMHexeKLiZJVYDRGGPDX8o4
          tunnelName: "testTunnel-id"
     - uses: actions/checkout@v2
     - name: Set up JDK 1.8
